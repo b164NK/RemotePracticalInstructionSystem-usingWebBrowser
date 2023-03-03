@@ -15,13 +15,13 @@
 
 ### 1. Firebaseプロジェクトを作る（要：自身のGoogleアカウント）  
 
-### 2. 「プロダクトのカテゴリ」から「FirebaseHosting」を選び、画面に従って進める  
+### 2. プロジェクトのホーム画面左側の「プロダクトのカテゴリ」から「FirebaseHosting」を選び、画面に従って進める  
     - FirebaseCLIを自身のPCにインストール(初回のみ)
     - WEBアプリのルートディレクトリは自身のPC内に任意に設定
     - コマンド「firebase init」で作られたルートディレクトリ内のフォルダ「public」に、２つのうち片方ののシステムファイルを置く
     - フォルダ「public」に既に、index.htmlが置かれている場合は消しておく
 
-### 3. 「プロダクトのカテゴリ」から「FirebaseRealtimeDatabase」を選び、画面に従って進める
+### 3. 同じく「プロダクトのカテゴリ」から「FirebaseRealtimeDatabase」を選び、画面に従って進める
     - データベースはJSON形式である
     - カラム構成の雛形となるJSONファイル「Pan-Obj-Mot.json」をインポートする
 
