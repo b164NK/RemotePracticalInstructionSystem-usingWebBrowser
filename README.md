@@ -45,7 +45,7 @@
 
 ### [Virtual human model co-editing system](https://github.com/b164NK/RemotePracticalInstructionSystem-usingWebBrowser/tree/master/Virtual%20human%20model%20co-editing%20system)をHosting(公開)しているサイトをブラウザで開く  
 
-![VirtualHuman EditingSystem_pic](images_RPIS/VirtualHuman EditingSystem_pic.png)
+![VirtualHumanEditingSystem_pic](images_RPIS/VirtualHuman EditingSystem_pic.png)
 
     5. 変更したい動作を見つけ、その動作の時刻に画面右側のシークバーを合わせる
     6. ブラウザ画面上の仮想人型モデルの動かしたい部位をタッチする
