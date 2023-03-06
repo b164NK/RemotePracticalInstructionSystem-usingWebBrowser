@@ -33,9 +33,11 @@
 
 ここでは、WEBアプリケーションを実際に用いた、ユーザ操作の手順について述べる。
 
-### [Human scale capturing system](https://github.com/b164NK/RemotePracticalInstructionSystem-usingWebBrowser/tree/master/Human%20scale%20capturing%20system)をHosting(公開)しているサイトをブラウザで開く  
+### [Human scale capturing system](https://github.com/b164NK/RemotePracticalInstructionSystem-usingWebBrowser/tree/master/Human%20scale%20capturing%20system)をHosting(公開)しているサイトをブラウザで開く
+
+![PoseEstimationSystem_pic](images_RPIS/PoseEstimationSystem_pic.png)
+
     1. 最初に表示されるブラウザ画面
-        ![PoseEstimationSystem_pic](images_RPIS/PoseEstimationSystem_pic.png)
     2. WEBカメラを通して、ブラウザ上に全身を映す  
     3. そのまま画面右下の「Pose_Estimation」ボタンを押す  
     4. 変更されたRealtimeDatabaseの内容をexportする
