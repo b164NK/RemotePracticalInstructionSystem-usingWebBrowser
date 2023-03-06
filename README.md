@@ -9,7 +9,7 @@
 
 ## 環境構築
 
-上記２つのシステムファイルに加え、サーバーとしてFirebaseを用いて環境構築を行う。
+上記２つのシステムファイルに加え、サーバーとして[Firebase](https://console.firebase.google.com/)を用いて環境構築を行う。
 ここでは、「FirebaseHosting」というサービスによってWEBアプリケーションとして公開するまでの手順を述べる。
 
 
@@ -23,7 +23,7 @@
 
 ### 3. 同じく「プロダクトのカテゴリ」から「FirebaseRealtimeDatabase」を選び、画面に従って進める
     - データベースはJSON形式である
-    - カラム構成の雛形となるJSONファイル「Pan-Obj-Mot.json」をインポートする
+    - カラム構成の雛形となるJSONファイル、Pan-Obj-Mot.json(https://github.com/b164NK/RemotePracticalInstructionSystem-usingWebBrowser/blob/master/Pan-Obj-Mot.json)をインポートする
 
 ### 4. 2で使わなかった方のシステムファイルを用いて、1~3の手順を再度行う
 
@@ -62,10 +62,8 @@
 ここで述べたような２つのプロジェクトを用いる方法とは別に、１つのプロジェクト内に2つのWEBシステムをHosting(公開)する方法もある。（参考サイト/[Qiita:Firebase Hostingで複数サイト管理設定](https://qiita.com/zaburo/items/f0fc863d1eb24cfe5cca)）
 この方法であれば、同一のRealtimeDatabaseから手動でJSONデータをexport&inportせずとも良いので、ひとまず上記方法で動作が確認を行い、正常に動いた折にはこちらの方法に切り替えて試すのが良いかと思う。
 
-## その他 参考サイト
+## その他 参考サイト等
 
-* iriun Webcam
-* Three.js:keyframeanimation system
+* [iriun Webcam](https://iriun.com/)　スマホをwebカメラとして利用できるようにする無料のアプリケーション。本システムの制作過程で利用。
+* [Three.js:Animation system](https://threejs.org/docs/index.html#manual/en/introduction/Animation-system)　本システムで扱われている動作データは、ここで説明されているようなKeyframeAnimationで表現されている。
 
-
-*制作論文
