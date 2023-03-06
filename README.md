@@ -35,9 +35,12 @@
 
 ### [Human scale capturing system](https://github.com/b164NK/RemotePracticalInstructionSystem-usingWebBrowser/tree/master/Human%20scale%20capturing%20system)をHosting(公開)しているサイトをブラウザで開く
 
-![PoseEstimationSystem_pic](images_RPIS/PoseEstimationSystem_pic.png)
 
-![VirtualHumanEditingSystem_pic](images_RPIS/VirtualHuman EditingSystem_pic.png)
+![VirtualHumanEditingSystem_pic](images_RPIS/VirtualHuman EditingSystem_pic.png)  
+
+![PoseEstimationSystem_pic](images_RPIS/PoseEstimationSystem_pic.png)  
+
+
 
     1. WEBカメラを通して、ブラウザ上に全身を映す  
     2. そのまま画面右下の「Pose_Estimation」ボタンを押す  
