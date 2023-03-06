@@ -58,7 +58,10 @@
 ここで述べたような２つのプロジェクトを用いる方法とは別に、１つのプロジェクト内に2つのWEBシステムをHosting(公開)する方法もある。（参考サイト/[Qiita:Firebase Hostingで複数サイト管理設定](https://qiita.com/zaburo/items/f0fc863d1eb24cfe5cca)）
 この方法であれば、同一のRealtimeDatabaseから手動でJSONデータをexport&inportせずとも良いので、ひとまず上記方法で動作が確認を行い、正常に動いた折にはこちらの方法に切り替えて試すのが良いかと思う。
 
-## その他、参考サイト
+## その他 参考サイト
+
+* iriun Webcam
+* Three.js:keyframeanimation system
 
 
 
