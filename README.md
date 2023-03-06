@@ -23,7 +23,7 @@
 
 ### 3. 同じく「プロダクトのカテゴリ」から「FirebaseRealtimeDatabase」を選び、画面に従って進める
     - データベースはJSON形式である
-    - カラム構成の雛形となるJSONファイル、Pan-Obj-Mot.json(https://github.com/b164NK/RemotePracticalInstructionSystem-usingWebBrowser/blob/master/Pan-Obj-Mot.json)をインポートする
+    - カラム構成の雛形となるJSONファイル、Pan-Obj-Mot.jsonをインポートする
 
 ### 4. 2で使わなかった方のシステムファイルを用いて、1~3の手順を再度行う
 
