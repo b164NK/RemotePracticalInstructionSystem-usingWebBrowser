@@ -34,11 +34,11 @@
 ここでは、WEBアプリケーションを実際に用いた、ユーザ操作の手順について述べる。
 
 ### [Human scale capturing system](https://github.com/b164NK/RemotePracticalInstructionSystem-usingWebBrowser/tree/master/Human%20scale%20capturing%20system)をHosting(公開)しているサイトをブラウザで開く  
-    1. 最初に表示されるブラウザ画面(+画像)  
-    2. WEBカメラを通して、ブラウザ上に全身を映す（+画像）  
+    1. 最初に表示されるブラウザ画面  
+    2. WEBカメラを通して、ブラウザ上に全身を映す  
     3. そのまま画面右下の「Pose_Estimation」ボタンを押す  
     4. 変更されたRealtimeDatabaseの内容をexportする
-    5. Virtual human model co-editing system　側のRealtimeDatabaseにinportする(+画像)
+    5. Virtual human model co-editing system　側のRealtimeDatabaseにinportする
 
 
 ### [Virtual human model co-editing system](https://github.com/b164NK/RemotePracticalInstructionSystem-usingWebBrowser/tree/master/Virtual%20human%20model%20co-editing%20system)をHosting(公開)しているサイトをブラウザで開く  
