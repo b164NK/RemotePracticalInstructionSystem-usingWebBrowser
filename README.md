@@ -37,20 +37,20 @@
 
 ![PoseEstimationSystem_pic](images_RPIS/PoseEstimationSystem_pic.png)
 
-    1. 最初に表示されるブラウザ画面
-    2. WEBカメラを通して、ブラウザ上に全身を映す  
-    3. そのまま画面右下の「Pose_Estimation」ボタンを押す  
-    4. 変更されたRealtimeDatabaseの内容をexportする
-    5. Virtual human model co-editing system　側のRealtimeDatabaseにinportする
+    1. WEBカメラを通して、ブラウザ上に全身を映す  
+    2. そのまま画面右下の「Pose_Estimation」ボタンを押す  
+    3. 変更されたRealtimeDatabaseの内容をexportする
+    4. Virtual human model co-editing system　側のRealtimeDatabaseにinportする
 
 
 ### [Virtual human model co-editing system](https://github.com/b164NK/RemotePracticalInstructionSystem-usingWebBrowser/tree/master/Virtual%20human%20model%20co-editing%20system)をHosting(公開)しているサイトをブラウザで開く  
-    6. 最初に表示されるブラウザ画面
-        ![VirtualHuman EditingSystem_pic](images_RPIS/VirtualHuman EditingSystem_pic.png)
-    7. 変更したい動作を見つけ、その動作の時刻に画面右側のシークバーを合わせる
-    8. ブラウザ画面上の仮想人型モデルの動かしたい部位をタッチする
-    9. ドラッグすることで、任意のポーズになるよう自由に動かす
-    10. 動かし終えた際、ドロップする
+
+![VirtualHuman EditingSystem_pic](images_RPIS/VirtualHuman EditingSystem_pic.png)
+
+    5. 変更したい動作を見つけ、その動作の時刻に画面右側のシークバーを合わせる
+    6. ブラウザ画面上の仮想人型モデルの動かしたい部位をタッチする
+    7. ドラッグすることで、任意のポーズになるよう自由に動かす
+    8. 動かし終えた際、ドロップする
     
     - 「playback」ボタンを押すことで現在の保存されているアニメーションデータを再生し、実際の動きを確認できる。
     - 「Edit Mode:---」ボタンを押すことで、仮想空間描画中の画面に対する操作を部位操作かカメラワーク操作かで切り替えられる。
